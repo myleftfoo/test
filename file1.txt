@@ -1,0 +1,2 @@
+my left foo
+is slightly better than my right one
